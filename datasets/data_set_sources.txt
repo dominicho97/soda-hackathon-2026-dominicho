@@ -1,0 +1,7 @@
+
+
+
+
+IBM_customers_dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+

@@ -1,0 +1,536 @@
+customer_id,full_name,region,customer_status,health_score,health_band,churn_risk,recommended_action,priority,owner,created_at
+1465-VINDH,Customer 6635,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8327-LZKAS,Customer 5230,Europe,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2070-FNEXE,Customer 178,Europe,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6097-EQISJ,Customer 1702,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4695-WJZUE,Customer 2185,North America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2774-LVQUS,Customer 2325,North America,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8868-WOZGU,Customer 3981,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5748-RNCJT,Customer 6409,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2302-ANTDP,Customer 4876,South America,AT RISK,15.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5959-BELXA,Customer 5440,South America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4325-NFSKC,Customer 5044,South America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2886-KEFUM,Customer 1548,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1555-DJEQW,Customer 6039,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3672-YITQD,Customer 5178,Europe,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6987-XQSJT,Customer 4614,Europe,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3424-NMNBO,Customer 1989,North America,AT RISK,17.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0397-GZBBC,Customer 2481,North America,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8444-WRIDW,Customer 6825,North America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0402-CQAJN,Customer 6861,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1658-BYGOY,Customer 56,South America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8802-UNOJF,Customer 2940,South America,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8631-NBHFZ,Customer 3780,South America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3296-SILRA,Customer 6232,South America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2761-OCIAX,Customer 1596,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4902-OHLSK,Customer 4183,Asia-Pacific,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8063-GBATB,Customer 4559,Asia-Pacific,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7534-BFESC,Customer 291,Asia-Pacific,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1150-WFARN,Customer 3695,Asia-Pacific,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6927-WTFIV,Customer 5851,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2249-YPRNG,Customer 2954,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5281-BUZGT,Customer 4913,North America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8199-ZLLSA,Customer 5128,South America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5502-RLUYV,Customer 4396,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7234-FECYN,Customer 6887,Asia-Pacific,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3319-DWOEP,Customer 6627,Asia-Pacific,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7657-DYEPJ,Customer 3327,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6771-XWBDM,Customer 3731,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8651-ENBZX,Customer 6334,Europe,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6777-TGHTM,Customer 5878,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9851-KIELU,Customer 881,North America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3902-FOIGH,Customer 3272,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3838-OZURD,Customer 1340,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6022-UGGSO,Customer 3008,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9412-GHEEC,Customer 516,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6646-QVXLR,Customer 979,Asia-Pacific,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2027-FECZV,Customer 2295,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6402-ZFPPI,Customer 4674,Europe,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2995-UPRYS,Customer 5106,Europe,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1724-BQUHA,Customer 2742,Europe,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9079-YEXQJ,Customer 6854,Europe,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5469-CTCWN,Customer 1478,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2636-ALXXZ,Customer 3302,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2359-QWQUL,Customer 5006,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9497-QCMMS,Customer 1977,North America,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5644-PDMZC,Customer 649,North America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9835-ZIITK,Customer 6036,South America,AT RISK,17.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6818-WOBHJ,Customer 1264,South America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3207-OYBWH,Customer 2207,Asia-Pacific,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2840-XANRC,Customer 319,Asia-Pacific,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0334-GDDSO,Customer 411,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6689-TCZHQ,Customer 1899,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0337-CNPZE,Customer 3335,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9134-CEQMF,Customer 1286,Europe,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1564-NTYXF,Customer 6954,Europe,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3571-RFHAR,Customer 2278,Europe,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0280-XJGEX,Customer 14,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9961-JBNMK,Customer 2049,North America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4844-JJWUY,Customer 5877,North America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3331-HQDTW,Customer 1645,North America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5561-NWEVX,Customer 6688,South America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7694-VLBWQ,Customer 2020,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8809-RIHDD,Customer 3112,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9360-AHGNL,Customer 4259,Asia-Pacific,AT RISK,17.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1400-MMYXY,Customer 6895,Asia-Pacific,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6518-LGAOV,Customer 6607,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7774-OJSXI,Customer 3303,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6892-XPFPU,Customer 5134,Europe,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7028-DVOIQ,Customer 949,North America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6543-XRMYR,Customer 4449,North America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5236-PERKL,Customer 2425,North America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3336-JORSO,Customer 2620,South America,AT RISK,17.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1502-XFCVR,Customer 4992,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3923-CSIHK,Customer 3032,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2397-BRLOM,Customer 2691,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2165-VOEGB,Customer 3535,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3419-SNJJD,Customer 610,Europe,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4612-THJBS,Customer 2338,Europe,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5419-CONWX,Customer 1402,Europe,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8775-LHDJH,Customer 6090,Europe,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1069-XAIEM,Customer 4586,Europe,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5357-TZHPP,Customer 1422,Europe,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9965-YOKZB,Customer 4682,Europe,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3870-MQAMG,Customer 2298,Europe,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3932-CMDTD,Customer 3838,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9221-OTIVJ,Customer 2449,North America,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2265-CYWIV,Customer 2845,North America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3068-OMWZA,Customer 1601,North America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1980-KXVPM,Customer 7009,North America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7641-EUYET,Customer 2484,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4094-NSEDU,Customer 2340,South America,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9947-OTFQU,Customer 248,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3621-CEOVK,Customer 6563,Asia-Pacific,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0723-DRCLG,Customer 7011,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1846-XWOQN,Customer 2367,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7495-OOKFY,Customer 54,Europe,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9158-VCTQB,Customer 1674,Europe,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6961-VCPMC,Customer 3714,Europe,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5219-YIPTK,Customer 4646,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0702-PGIBZ,Customer 6386,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8510-AWCXC,Customer 2709,North America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1725-IQNIY,Customer 3789,North America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4248-QPAVC,Customer 1632,South America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6513-EECDB,Customer 916,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0390-DCFDQ,Customer 140,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9912-GVSEQ,Customer 5935,Asia-Pacific,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8010-EZLOU,Customer 5135,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1965-AKTSX,Customer 5907,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1907-UBQFC,Customer 911,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2369-UAPKZ,Customer 4739,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4433-JCGCG,Customer 3682,Europe,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4846-WHAFZ,Customer 114,Europe,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5293-WXJAK,Customer 1133,North America,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5868-YWPDW,Customer 6837,North America,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2091-RFFBA,Customer 4293,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6946-LMSQS,Customer 3832,South America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2642-DTVCO,Customer 5816,South America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7124-UGSUR,Customer 4983,Asia-Pacific,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0886-QGENL,Customer 6963,Asia-Pacific,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8634-CILSZ,Customer 5259,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6646-VRFOL,Customer 6010,Europe,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8017-LXHFA,Customer 1619,Asia-Pacific,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5813-UECBU,Customer 6267,Asia-Pacific,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4441-NIHPT,Customer 1086,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1268-ASBGA,Customer 5037,North America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2659-VXMWZ,Customer 2205,North America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5099-BAILX,Customer 631,Asia-Pacific,AT RISK,17.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6502-HCJTI,Customer 5091,Asia-Pacific,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1273-MTETI,Customer 6863,Asia-Pacific,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4391-RESHN,Customer 5623,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0576-WNXXC,Customer 4122,Europe,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1833-VGRUM,Customer 3822,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4800-CZMPC,Customer 2301,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3757-NJYBX,Customer 2380,South America,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9898-KZQDZ,Customer 2416,South America,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2657-ALMWY,Customer 5584,South America,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6179-GJPSO,Customer 2075,Asia-Pacific,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3318-OSATS,Customer 3287,Asia-Pacific,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0504-HHAPI,Customer 4683,Asia-Pacific,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0529-ONKER,Customer 1499,Asia-Pacific,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7181-BQYBV,Customer 2247,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1265-XTECC,Customer 5766,Europe,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8621-MNIHH,Customer 1390,Europe,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2408-TZMJL,Customer 1269,North America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5908-QMGOE,Customer 2453,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0895-DQHEW,Customer 3201,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6210-KBBPI,Customer 3588,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5569-OUICF,Customer 5300,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6328-ZPBGN,Customer 6180,South America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3097-NQYSN,Customer 6092,South America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8696-JKZNU,Customer 4848,South America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3325-FUYCG,Customer 2452,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1842-EZJMK,Customer 6352,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1309-BXVOQ,Customer 6551,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7067-KSAZT,Customer 4793,North America,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7503-QQRVF,Customer 2777,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5565-FILXA,Customer 1239,Asia-Pacific,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5655-JSMZM,Customer 3951,Asia-Pacific,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8999-BOHSE,Customer 1087,Asia-Pacific,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4514-GFCFI,Customer 1991,Asia-Pacific,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7632-MNYOY,Customer 6606,Europe,AT RISK,17.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8361-LTMKD,Customer 7042,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2660-EMUBI,Customer 1565,North America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7480-QNVZJ,Customer 4961,North America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7137-RYLPP,Customer 4901,North America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6015-VVHHE,Customer 3341,North America,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6168-WFVVF,Customer 5369,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0257-ZESQC,Customer 519,Asia-Pacific,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4039-HEUNW,Customer 3842,Europe,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1626-ERCMM,Customer 646,Europe,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1374-DMZUI,Customer 998,Europe,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2720-WGKHP,Customer 6369,North America,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3254-YRILK,Customer 1493,North America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5956-VKDTT,Customer 513,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1899-VXWXM,Customer 1633,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3714-JTVOV,Customer 4489,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2272-QAGFO,Customer 6709,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6394-MFYNG,Customer 6953,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0917-EZOLA,Customer 3440,South America,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6683-VLCTZ,Customer 756,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4803-AXVYP,Customer 3136,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0722-TROQR,Customer 4664,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4140-MUHUG,Customer 2271,Asia-Pacific,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4412-YLTKF,Customer 127,Asia-Pacific,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1732-VHUBQ,Customer 2891,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5383-MMTWC,Customer 5938,Europe,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5240-IJOQT,Customer 1506,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8062-YBDOE,Customer 5166,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7216-EWTRS,Customer 2209,North America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8849-GYOKR,Customer 3241,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6567-HOOPW,Customer 1372,South America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5804-LEPIM,Customer 328,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2055-PDADH,Customer 4852,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5287-QWLKY,Customer 5703,Asia-Pacific,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4822-RVYBB,Customer 1027,Asia-Pacific,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7024-OHCCK,Customer 1411,Asia-Pacific,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9661-ACXBS,Customer 5995,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2239-JALAW,Customer 811,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1989-PRJHP,Customer 1002,Europe,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0727-BMPLR,Customer 841,North America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8699-ASUFO,Customer 2169,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4587-VVTOX,Customer 3957,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6425-YQLLO,Customer 4288,South America,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8840-DQLGN,Customer 1884,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3005-NFMTA,Customer 6820,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2479-BRAMR,Customer 4472,South America,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3804-RVTGV,Customer 892,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7279-BUYWN,Customer 1771,Asia-Pacific,AT RISK,16.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0946-CLJTI,Customer 4075,Asia-Pacific,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1624-NALOJ,Customer 3563,Asia-Pacific,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5277-ZLOOR,Customer 3079,Asia-Pacific,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8166-ZZTFS,Customer 4699,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4789-KWMXN,Customer 6187,Asia-Pacific,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0679-IDSTG,Customer 2901,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4021-RQSNY,Customer 2164,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4248-HCETZ,Customer 3099,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0654-HMSHN,Customer 5699,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4424-TKOPW,Customer 3750,Europe,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7752-XUSCI,Customer 446,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9601-BRXPO,Customer 378,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5136-KCKGI,Customer 2394,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1304-NECVQ,Customer 3933,North America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5519-YLDGW,Customer 3365,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3001-CBHLQ,Customer 2803,Asia-Pacific,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4597-NUCQV,Customer 4315,Asia-Pacific,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6284-AHOOQ,Customer 5598,Europe,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6804-GDMOI,Customer 5542,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8051-HJRLT,Customer 2134,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8644-XLFBW,Customer 3806,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4250-ZBWLV,Customer 6017,North America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7055-VKGDA,Customer 6313,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1415-YFWLT,Customer 5784,South America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5307-DZCVC,Customer 3120,South America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1343-EHPYB,Customer 340,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2205-YMZZJ,Customer 2443,Asia-Pacific,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8808-ELEHO,Customer 4519,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5380-WJKOV,Customer 39,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4658-HCOHW,Customer 4595,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3793-MMFUH,Customer 1361,North America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3500-RMZLT,Customer 5793,North America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2684-EIWEO,Customer 729,North America,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9710-ZUSHQ,Customer 3252,South America,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9061-TIHDA,Customer 2168,South America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7156-MHUGY,Customer 1772,South America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8739-WWKDU,Customer 6968,South America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6769-DYBQN,Customer 6208,South America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7395-IGJOS,Customer 3176,South America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4631-OACRM,Customer 5500,South America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8000-REIQB,Customer 1996,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5385-SUIRI,Customer 6142,Europe,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3768-NLUBH,Customer 6718,Europe,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3398-FSHON,Customer 6626,Europe,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7599-FKVXZ,Customer 3474,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6861-XWTWQ,Customer 2632,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4088-YLDSU,Customer 4200,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0201-OAMXR,Customer 1307,Asia-Pacific,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3606-TWKGI,Customer 262,Europe,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0781-LKXBR,Customer 906,Europe,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8098-LLAZX,Customer 302,Europe,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9809-IMGCQ,Customer 1486,Europe,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6005-OBZPH,Customer 5410,Europe,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9488-HGMJH,Customer 3690,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4283-FUTGF,Customer 2687,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9885-CSMWE,Customer 3311,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9606-PBKBQ,Customer 1810,Europe,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9776-CLUJA,Customer 6418,Europe,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3999-QGRJH,Customer 2830,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2403-BCASL,Customer 3876,South America,AT RISK,16.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8988-ECPJR,Customer 5184,South America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7207-RMRDB,Customer 636,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0812-WUPTB,Customer 3844,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2722-VOJQL,Customer 5415,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9889-TMAHG,Customer 966,Europe,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6583-QGCSI,Customer 6994,Europe,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7317-GGVPB,Customer 3041,North America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5440-FLBQG,Customer 2288,South America,AT RISK,17.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3791-LGQCY,Customer 4692,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8414-MYSHR,Customer 3468,South America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4713-LZDRV,Customer 5040,South America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3755-JBMNH,Customer 5503,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5567-WSELE,Customer 5990,Europe,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9053-JZFKV,Customer 6290,Europe,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7576-OYWBN,Customer 2590,Europe,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6305-YLBMM,Customer 4685,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4550-VBOFE,Customer 2880,South America,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1075-BGWOH,Customer 5232,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0506-LVNGN,Customer 1440,South America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7130-VTEWQ,Customer 4344,South America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2889-FPWRM,Customer 4611,Asia-Pacific,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5013-SBUIH,Customer 2791,Asia-Pacific,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0947-MUGVO,Customer 863,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7762-URZQH,Customer 5051,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2398-YPMUR,Customer 5751,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1389-CXMLU,Customer 6682,Europe,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5192-EBGOV,Customer 586,Europe,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7825-ECJRF,Customer 209,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0324-BRPCJ,Customer 4084,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7240-FQLHE,Customer 6972,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9651-GTSAQ,Customer 1556,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0709-TVGUR,Customer 2796,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5276-KQWHG,Customer 4000,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7089-IVVAZ,Customer 2439,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0639-TSIQW,Customer 7035,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6496-SLWHQ,Customer 5934,Europe,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1363-TXLSL,Customer 5826,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0871-URUWO,Customer 6126,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6661-HBGWL,Customer 6545,North America,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1236-WFCDV,Customer 1041,North America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2656-FMOKZ,Customer 177,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4187-CINZD,Customer 1260,South America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2860-RANUS,Customer 3976,South America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8020-BWHYL,Customer 5124,South America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4566-GOLUK,Customer 1928,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3551-HUAZH,Customer 6439,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2012-NWRPA,Customer 4518,Europe,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4554-YGZIH,Customer 630,Europe,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6595-YGXIT,Customer 6034,Europe,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3871-IKPYH,Customer 3918,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9317-WZPGV,Customer 6553,North America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7056-IMHCC,Customer 3412,South America,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8580-AECUZ,Customer 1652,South America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9248-OJYKK,Customer 6624,South America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2865-TCHJW,Customer 583,Asia-Pacific,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5389-FFVKB,Customer 6823,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9101-BWFSS,Customer 831,Asia-Pacific,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9801-GDWGV,Customer 5631,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8111-SLLHI,Customer 1126,Europe,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8374-XGEJJ,Customer 3830,Europe,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5609-CEBID,Customer 506,Europe,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6345-ULYRW,Customer 5505,North America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2528-HFYZX,Customer 2225,North America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4988-IQIGL,Customer 3496,South America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3070-DVEYC,Customer 4840,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1875-QIVME,Customer 172,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3058-HJCUY,Customer 6396,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3269-ATYWD,Customer 2575,Asia-Pacific,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8922-LIEGH,Customer 2515,Asia-Pacific,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0818-OCPZO,Customer 6659,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9685-WKZGT,Customer 3007,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4871-JTKJF,Customer 5783,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2845-AFFTX,Customer 2949,North America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8519-IMDHU,Customer 1305,North America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1704-NRWYE,Customer 4369,North America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3992-YWPKO,Customer 1177,North America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6894-LFHLY,Customer 7033,North America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3488-PGMQJ,Customer 289,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2454-RPBRZ,Customer 2832,South America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0094-OIFMO,Customer 239,Asia-Pacific,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8884-ADFVN,Customer 6366,Europe,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1792-UXAFY,Customer 4414,Europe,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8225-BTJAU,Customer 2722,Europe,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6599-RCLCJ,Customer 1314,Europe,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0348-SDKOL,Customer 1982,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4706-AXVKM,Customer 3525,North America,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0363-QJVFX,Customer 5716,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0533-BNWKF,Customer 387,Asia-Pacific,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5931-FLJJF,Customer 2203,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8337-UPOAQ,Customer 3786,Europe,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4505-EXZHB,Customer 3954,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0495-ZBNGW,Customer 4185,North America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6688-UZPWD,Customer 3717,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3685-YLCMQ,Customer 6449,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2856-NNASM,Customer 6200,South America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8375-DKEBR,Customer 1732,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0115-TFERT,Customer 819,Asia-Pacific,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8634-MPHTR,Customer 6454,Europe,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7903-CMPEY,Customer 4350,Europe,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3372-KWFBM,Customer 1309,North America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3398-ZOUAA,Customer 5853,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8625-AZYZY,Customer 3808,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9190-MFJLN,Customer 6127,Asia-Pacific,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1228-FZFRV,Customer 1659,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8938-UMKPI,Customer 3911,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4423-YLHDV,Customer 1703,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1891-FZYSA,Customer 2998,Europe,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4826-XTSOH,Customer 2746,Europe,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5089-IFSDP,Customer 3850,Europe,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2982-IHMFT,Customer 5342,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7206-GZCDC,Customer 1326,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5186-SAMNZ,Customer 2518,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5130-IEKQT,Customer 2564,South America,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8485-GJCDN,Customer 5252,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8972-HJWNV,Customer 3963,Asia-Pacific,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5649-ANRML,Customer 3142,Europe,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9369-XFEHK,Customer 986,Europe,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9249-FXSCK,Customer 6106,Europe,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8473-VUVJN,Customer 5482,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9274-CNFMO,Customer 6810,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9253-QXKBE,Customer 6049,North America,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7409-KIUTL,Customer 2889,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6899-PPEEA,Customer 4308,South America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0011-IGKFF,Customer 5932,South America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1891-UAWWU,Customer 5712,South America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4853-RULSV,Customer 812,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5539-TMZLF,Customer 2608,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0406-BPDVR,Customer 3995,Asia-Pacific,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5747-PMBSQ,Customer 5331,Asia-Pacific,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0685-MLYYM,Customer 6727,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0093-XWZFY,Customer 7007,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2632-UCGVD,Customer 4266,Europe,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1597-LHYNC,Customer 6306,Europe,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4184-TJFAN,Customer 1030,Europe,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9490-DFPMD,Customer 1646,Europe,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7029-RPUAV,Customer 1089,North America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3763-GCZHZ,Customer 2813,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7142-HVGBG,Customer 6915,Asia-Pacific,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3643-AHCFP,Customer 827,Asia-Pacific,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4369-HTUIF,Customer 5687,Asia-Pacific,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9231-ZJYAM,Customer 835,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0643-OKLRP,Customer 5199,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5445-PZWGX,Customer 4267,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5914-DVBWJ,Customer 3802,Europe,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7235-NXZCP,Customer 6530,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1771-OADNZ,Customer 3641,North America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3217-FZDMN,Customer 4957,North America,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5020-ZSTTY,Customer 321,North America,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3192-NQECA,Customer 105,North America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9572-MTILT,Customer 5545,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6900-PXRMS,Customer 3616,South America,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1866-RZZQS,Customer 3776,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2446-BEGGB,Customer 6216,South America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7450-NWRTR,Customer 5391,Asia-Pacific,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7074-IEVOJ,Customer 927,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8258-GSTJK,Customer 5099,Asia-Pacific,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3259-FDWOY,Customer 6399,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4361-BKAXE,Customer 1078,Europe,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0748-RDGGM,Customer 3518,Europe,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1977-STDKI,Customer 6258,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1254-IZEYF,Customer 2445,North America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5244-IRFIH,Customer 725,North America,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8749-JMNKX,Customer 3429,North America,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9300-AGZNL,Customer 4801,North America,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4484-GLZOU,Customer 277,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7892-POOKP,Customer 9,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4154-AQUGT,Customer 1608,South America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3247-ZVOUO,Customer 5028,South America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4795-KTRTH,Customer 2024,South America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3389-YGYAI,Customer 4827,Asia-Pacific,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1587-FKLZB,Customer 2283,Asia-Pacific,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6877-LGWXO,Customer 5958,Europe,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8245-UMPYT,Customer 2517,North America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6712-OAWRH,Customer 3793,North America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1113-IUJYX,Customer 6801,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2956-GGUCQ,Customer 4704,South America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4818-QIUFN,Customer 3703,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2815-CPTUL,Customer 2971,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0691-IFBQW,Customer 786,Europe,AT RISK,17.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4446-BZKHU,Customer 2610,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5178-LMXOP,Customer 3381,North America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2260-USTRB,Customer 3596,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0520-FDVVT,Customer 6536,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7481-ATQQS,Customer 4382,Europe,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7779-LGOVN,Customer 3249,North America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5923-GXUOC,Customer 4877,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1095-JUDTC,Customer 6132,South America,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3988-RQIXO,Customer 2192,South America,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9391-EOYLI,Customer 1580,South America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5564-NEMQO,Customer 420,South America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2834-JRTUA,Customer 976,South America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0354-WYROK,Customer 2579,Asia-Pacific,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4077-CROMM,Customer 6167,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8267-ZNYVZ,Customer 6919,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5889-JTMUL,Customer 3526,Europe,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8290-YWKHZ,Customer 2086,Europe,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3990-QYKBE,Customer 6774,Europe,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1583-IHQZE,Customer 2266,Europe,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0193-ESZXP,Customer 5685,North America,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2474-BRUCM,Customer 6497,North America,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4598-XLKNJ,Customer 100,South America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1112-CUNAO,Customer 4811,Asia-Pacific,AT RISK,23.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8058-JMEQO,Customer 3323,Asia-Pacific,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5373-SFODM,Customer 2522,Europe,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0013-EXCHZ,Customer 5570,Europe,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1984-FCOWB,Customer 5698,Europe,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5052-PNLOS,Customer 3086,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4342-HENTK,Customer 6274,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3957-LXOLK,Customer 4909,North America,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4145-UQXUQ,Customer 1033,North America,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6230-BSUXY,Customer 6749,North America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7957-RYHQD,Customer 6741,North America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6990-YNRIO,Customer 1841,North America,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9286-DOJGF,Customer 6345,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5449-FIBXJ,Customer 4429,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2034-CGRHZ,Customer 4212,South America,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6386-SZZKH,Customer 5335,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2506-TNFCO,Customer 5455,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8118-LSUEL,Customer 3062,Europe,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8580-QVLOC,Customer 4514,Europe,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6664-FPDAC,Customer 6973,North America,AT RISK,16.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2357-COQEK,Customer 4189,North America,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4913-EHYUI,Customer 639,Asia-Pacific,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4385-GZQXV,Customer 271,Asia-Pacific,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3886-CERTZ,Customer 3891,Asia-Pacific,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6029-WTIPC,Customer 5258,Europe,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3536-IQCTX,Customer 1822,Europe,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4750-ZRXIU,Customer 934,Europe,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+2516-VQRRV,Customer 3374,Europe,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1723-HKXJQ,Customer 3674,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9090-SGQXL,Customer 6033,North America,AT RISK,18.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7248-VZQLC,Customer 5913,North America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8623-TMRBY,Customer 3601,North America,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+7359-SSBJK,Customer 6725,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4086-YQSNZ,Customer 1160,South America,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9189-JWSHV,Customer 4107,Asia-Pacific,AT RISK,22.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6769-DCQLI,Customer 2639,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+1444-VVSGW,Customer 6538,Europe,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5271-YNWVR,Customer 5582,Europe,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+5550-VFRLC,Customer 5574,Europe,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0207-MDKNV,Customer 877,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6686-YPGHK,Customer 5112,South America,AT RISK,24.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3096-JRDSO,Customer 5723,Asia-Pacific,AT RISK,19.0,CRITICAL,HIGH,Executive Escalation,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8276-MQBYC,Customer 3331,Asia-Pacific,AT RISK,21.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6161-UUUTA,Customer 4447,Asia-Pacific,AT RISK,26.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0265-EDXBD,Customer 307,Asia-Pacific,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9851-QXEEQ,Customer 1479,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+9874-QLCLH,Customer 5155,Asia-Pacific,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0196-VULGZ,Customer 5494,Europe,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3090-HAWSU,Customer 6786,Europe,AT RISK,27.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4102-OQUPX,Customer 2822,Europe,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+4958-XCBDQ,Customer 3785,North America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+3565-UNOCC,Customer 6101,North America,AT RISK,20.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6060-DRTNL,Customer 5477,North America,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0875-CABNR,Customer 5665,North America,AT RISK,25.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+8685-WHQPW,Customer 6969,North America,AT RISK,28.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+6680-NENYN,Customer 337,North America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015
+0877-SDMBN,Customer 5372,South America,AT RISK,29.0,CRITICAL,HIGH,Customer Success Outreach,HIGH,Customer Success Team,2026-05-30T16:45:55.125015

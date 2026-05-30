@@ -4,10 +4,8 @@ from pydantic import BaseModel
 
 
 
-
-
 class SupportTicket(BaseModel):
-    ticket_id: str
+    ticket_id: int
     customer_email: str
     ticket_priority: str
     ticket_status: str
